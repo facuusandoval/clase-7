@@ -1,3 +1,3 @@
-console.log("ni idea que poner");
+console.log("ni idea quer");
 
-console.log (2*100)
+console.log (2*5)
