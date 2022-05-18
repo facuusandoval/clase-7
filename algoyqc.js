@@ -1,5 +1,6 @@
-console.log("ni idea que poner");
+console.log("ni idea quer");
 
 console.log (2*100)
 
 //noefjnvfonewvopinopiew
+console.log (2*5)
